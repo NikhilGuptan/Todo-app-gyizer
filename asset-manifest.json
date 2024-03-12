@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Todo-app-gyizer/static/css/main.206ed9d2.css",
+    "main.js": "/Todo-app-gyizer/static/js/main.9df3c928.js",
+    "static/js/453.81f383cb.chunk.js": "/Todo-app-gyizer/static/js/453.81f383cb.chunk.js",
+    "static/media/logo.svg": "/Todo-app-gyizer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Todo-app-gyizer/index.html",
+    "main.206ed9d2.css.map": "/Todo-app-gyizer/static/css/main.206ed9d2.css.map",
+    "main.9df3c928.js.map": "/Todo-app-gyizer/static/js/main.9df3c928.js.map",
+    "453.81f383cb.chunk.js.map": "/Todo-app-gyizer/static/js/453.81f383cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.206ed9d2.css",
+    "static/js/main.9df3c928.js"
+  ]
+}
